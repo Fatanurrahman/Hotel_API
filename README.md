@@ -5,7 +5,7 @@ Muhammad Fata Nurrahman
 
 API Documentation
 
-1.	Overview
+<strong> 1.	Overview </strong>
 Sebuah API untuk mendapatkan data hotel hasil dari scraping web pada TripAdvisor. Data yang tersedia adalah id, nama, harga, jumlah review, dan lokasi. Hotel juga sementara hanya yang terletak di kota/provinsi dengan turis terbanyak, yaitu Medan, NTT, Yogyakarta, Bandung, Jakarta, dan Bali.
 
 2.	Purpose
